@@ -60,17 +60,16 @@ The application allows users to manage student records through:
 Admin access is enabled using Django’s built-in superuser functionality.
 
 ### Outputs
+<img width="1149" height="517" alt="Screenshot 2026-01-06 065811" src="https://github.com/user-attachments/assets/35fd5a30-278c-4f75-a45b-40016cd7603b" />
 
-<img width="1149" height="517" alt="Screenshot 2026-01-06 065811" src="https://github.com/user-attachments/assets/603fda55-a59b-4b36-93be-10c6c94e4cfd" />
+<img width="1341" height="676" alt="Screenshot 2026-01-06 073440" src="https://github.com/user-attachments/assets/5976d93f-7f7b-495f-bd2e-975a358a5e38" />
 
-<img width="1341" height="676" alt="Screenshot 2026-01-06 073440" src="https://github.com/user-attachments/assets/1cb53a10-a4f1-4152-bb88-5c8c44ca0eb7" />
-
-<img width="1342" height="655" alt="Screenshot 2026-01-06 225127" src="https://github.com/user-attachments/assets/02679966-9c92-41c6-a6ae-0b6272dd57e7" />
+<img width="1342" height="655" alt="Screenshot 2026-01-06 225127" src="https://github.com/user-attachments/assets/2862c204-523c-41ce-88c2-262f40760de0" />
 
 ## Django Admin Panel
 
 The project leverages Django’s built-in admin interface for secure backend management. Student records can be added, updated, and deleted through the admin panel with authentication and authorization enabled.
 
-<img width="1355" height="669" alt="Screenshot 2026-01-06 073521" src="https://github.com/user-attachments/assets/8095ff79-e126-43bb-964c-1ff533b3462d" />
+<img width="1355" height="669" alt="Screenshot 2026-01-06 073521" src="https://github.com/user-attachments/assets/d357bc03-51a2-4897-88b9-c30f8b92a78d" />
 
-<img width="1360" height="670" alt="Screenshot 2026-01-06 073500" src="https://github.com/user-attachments/assets/5fda6da0-4540-402d-8217-ca06301fbf2d" />
+<img width="1360" height="670" alt="Screenshot 2026-01-06 073500" src="https://github.com/user-attachments/assets/654f4ec7-164f-4a44-b1f3-987e5ae7ee75" />
